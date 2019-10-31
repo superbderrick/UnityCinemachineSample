@@ -1,3 +1,3 @@
-# KakaoSDK for Android samples
+# DisappearEffect
 
-- Analytics Android SDK 
+- DisappearEffect
