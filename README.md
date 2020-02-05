@@ -1,2 +1,2 @@
-# AndroidCanvas
-- In order to test Android some APIs to draw figures or lines on the canvas API
+# UnityCinemachineSample
+- Unity Cinemachine feature test 
